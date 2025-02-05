@@ -1,0 +1,48 @@
+The Body Mass Index (BMI) is calculated using the following formula:
+
+𝐵
+𝑀
+𝐼
+=
+Weight (kg)
+Height (m)
+2
+BMI= 
+Height (m) 
+2
+ 
+Weight (kg)
+​
+ 
+Example:
+If your weight is 70 kg and your height is 1.7 m, then—
+
+𝐵
+𝑀
+𝐼
+=
+70
+(
+1.7
+×
+1.7
+)
+=
+70
+2.89
+≈
+24.22
+BMI= 
+(1.7×1.7)
+70
+​
+ = 
+2.89
+70
+​
+ ≈24.22
+BMI Categories:
+Below 18.5 – Underweight
+18.5 - 24.9 – Normal weight
+25 - 29.9 – Overweight
+30 or above – Obesity
